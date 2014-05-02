@@ -1,0 +1,18 @@
+{
+  "name": "facebook_scrape",
+  "version": "0.0.0",
+  "authors": [
+    "板橋 清信 <keyi8773@yahoo.co.jp>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.16"
+  }
+}
